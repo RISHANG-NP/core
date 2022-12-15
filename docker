@@ -1,3 +1,4 @@
 from ubuntu
 run "apt update & apt install tree -y
 WORKDIR /app
+update
