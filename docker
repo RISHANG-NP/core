@@ -3,3 +3,4 @@ maintenance "rishang"
 run "apt update & apt install tree -y
 WORKDIR /app
 update
+entry-point
