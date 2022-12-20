@@ -1,2 +1,4 @@
 terget
 .ide
+*.zip
+*.jar
