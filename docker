@@ -1,5 +1,8 @@
 from ubuntu
+maintenence "ravi"
 RUN "apt update & apt install tree -y
+workdir /app
+expose 6000
 ADD ./app
 add
 expose 5000
