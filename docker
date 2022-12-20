@@ -6,3 +6,4 @@ expose 6000
 ADD ./app
 add
 expose 5000
+cmd [python abc.py]
